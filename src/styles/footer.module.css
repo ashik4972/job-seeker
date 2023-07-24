@@ -1,0 +1,17 @@
+.footerContent{
+text-align: center;
+}
+.footerContainer{
+    background-color: rgb(255, 0, 119);
+    color: white;
+    padding: 50px;
+    
+}
+.footericon{
+    width: 300px;
+    margin-left: 560px;
+    display: flex;
+    word-spacing: 20px;
+    justify-content: space-between;
+    font-size: 21px;
+}

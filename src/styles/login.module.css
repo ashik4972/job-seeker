@@ -1,0 +1,63 @@
+/* input{
+   
+    margin-left: 400px;
+    width: 400px;
+    padding : 13px;
+    border-radius: 36px;
+    border: none;
+    border:1px solid blue;
+    color: blue;
+} */
+.jobLoginContent{
+    color: rgb(255, 0, 119);
+    font-size: 40px;
+    text-align:center;
+    font-weight: bold;
+}
+
+.jobLoginContainer{
+    width: 20%;
+    margin: 150px auto;
+    /* background-color: black;     */
+}
+.jobLoginInput{
+    border: 1px solid rgb(255, 0, 119);
+    width: 300px;
+    padding: 15px;
+    border-radius: 36px;
+}
+.jobLoginBtn{
+    padding: 15px;
+    width: 300px;
+    background-color:rgb(255, 0, 119) ;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 36px;
+}
+
+/* div h2{
+    margin-left: 550px;
+    color: blue;
+    font-weight: bold;
+} */
+
+/* button{
+    padding:13px;
+    border: none;
+    border-radius: 36px;
+    border: 1px solid blue;
+    font-size: 18px;
+    width:400px;
+    margin-left: 400px;
+    background-color: #fff;
+    color: blue;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    transition: 0.9s;
+} */
